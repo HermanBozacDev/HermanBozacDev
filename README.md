@@ -16,7 +16,7 @@ Soy desarrollador con experiencia en Python, interfaces gráficas modernas, serv
 ## 📫 Contacto
 
 Podés encontrarme en:
-- [LinkedIn](https://linkedin.com/in/tu-usuario)
+- [LinkedIn](https://www.linkedin.com/in/martinhermanbozac/)
 - [GitHub](https://github.com/HermanBozacDev)
 
 ---
