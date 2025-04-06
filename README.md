@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Herman Bozac
 
-<!--
-**HermanBozacDev/HermanBozacDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador con experiencia en Python, interfaces gráficas modernas, servidores y automatización. Me encanta crear soluciones simples con buena estética y funcionalidad.
 
-Here are some ideas to get you started:
+## 🔧 Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [🎯 Generador de Códigos QR Moderno](https://github.com/HermanBozacDev/QrGenerator)  
+  Aplicación de escritorio con soporte para temas oscuros, selección de tamaño y logo embebido en QR.
+
+## 🚀 Tecnologías
+
+- Python, Tkinter, ttkbootstrap
+- Git & GitHub
+- PyInstaller, automatización
+
+## 📫 Contacto
+
+Podés encontrarme en:
+- [LinkedIn](https://linkedin.com/in/tu-usuario)
+- [GitHub](https://github.com/HermanBozacDev)
+
+---
