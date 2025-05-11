@@ -4,8 +4,11 @@ Soy desarrollador de juegos online con experiencia en Python, JavaScript, TypeSc
 
 ## 🔧 Proyectos destacados
 
-- [🎯 Generador de Códigos QR Moderno](https://github.com/HermanBozacDev/QrGenerator)  
-  Aplicación de escritorio con soporte para temas oscuros, selección de tamaño y logo embebido en QR.
+🖼️ Image Palette Extractor
+Extrae automáticamente paletas de colores de imágenes PNG. Permite seleccionar, ordenar y exportar colores en formato .gpl para usar en Aseprite. Incluye zoom, movimiento de imagen y un instalador clásico de Windows.
+
+🎯 Generador de Códigos QR Moderno
+Aplicación de escritorio con soporte para temas oscuros, selección de tamaño y logo embebido en QR.
 
 ## 🚀 Tecnologías
 
