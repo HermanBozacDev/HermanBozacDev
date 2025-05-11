@@ -1,6 +1,6 @@
 # 👋 Hola, soy Herman Bozac
 
-Soy desarrollador con experiencia en Python, interfaces gráficas modernas, servidores y automatización. Me encanta crear soluciones simples con buena estética y funcionalidad.
+Soy desarrollador de juegos online con experiencia en Python, JavaScript, TypeScript, GdScript(godot), interfaces gráficas modernas, servidores y automatización. Me encanta crear soluciones simples con buena estética y funcionalidad.
 
 ## 🔧 Proyectos destacados
 
