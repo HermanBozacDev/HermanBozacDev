@@ -8,8 +8,9 @@ Soy desarrollador de juegos online con experiencia en Python, JavaScript, TypeSc
 
 - **🧩 [EasyPixel Toolbox](https://github.com/HermanBozacDev/EasyPixelToolbox)**  
   Herramienta open source para extraer paletas de colores, pixelar imágenes, y convertir JPG a PNG. Ideal para desarrolladores de videojuegos en pixel art y postproducción de imágenes creadas por IA. Incluye zoom, previsualización y un instalador clásico de Windows.
- 👉 [Descargar última versión](https://github.com/HermanBozacDev/EasyPixelToolbox/releases/latest)
-
+Descargar última versión
+- **👉 [Descargar última versión](https://github.com/HermanBozacDev/EasyPixelToolbox/releases/latest)** 
+  
 - **🎯 [Generador de Códigos QR Moderno](https://github.com/HermanBozacDev/QrGenerator)**  
   Aplicación de escritorio con soporte para temas oscuros, selección de tamaño y logo embebido en el código QR.
 
